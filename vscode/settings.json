@@ -1,2 +1,13 @@
 {
+    "gitlens.gitExplorer.files.layout": "auto",
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.tabCloseButton": "off",
+    "window.openFilesInNewWindow": "on",
+    "zenMode.hideTabs": false,
+    "gitlens.currentLine.enabled": false,
+    "gitlens.hovers.currentLine.over": "line",
+    "gitlens.keymap": "alternate",
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    }
 }
