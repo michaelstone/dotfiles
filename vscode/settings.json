@@ -9,5 +9,12 @@
     "gitlens.keymap": "alternate",
     "gitlens.advanced.messages": {
         "suppressShowKeyBindingsNotice": true
-    }
+    },
+    "typescriptHero.imports.organizeOnSave": true,
+    "typescriptHero.imports.grouping": [
+        "Plains",
+        "Modules",
+        "Workspace"
+    ],
+    "window.zoomLevel": 0
 }

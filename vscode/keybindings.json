@@ -13,5 +13,14 @@
         "key": "alt+down",
         "command": "workbench.action.terminal.focusPrevious",
         "when": "terminalFocus"        
+    },{
+        "key": "ctrl+backspace",
+        "command": "editor.action.deleteLines",
+        "when": "textInputFocus && !editorReadonly"
+    },
+    {
+        "key": "ctrl+n",
+        "command": "explorer.newFile",
+        "when": "filesExplorerFocus"
     }
 ]
